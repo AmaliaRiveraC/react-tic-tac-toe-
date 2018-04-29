@@ -1,0 +1,8 @@
+.reset {
+    cursor: pointer;
+    color: #365899;
+  }
+  
+  .reset:hover {
+    text-decoration: underline;
+  }
